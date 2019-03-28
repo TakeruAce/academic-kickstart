@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Nelson Bighetti"
+name = "Takeru Hashimoto"
 
 # Username (this should match the folder name)
 authors = ["admin"]
@@ -9,23 +9,25 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Professor of Artificial Intelligence"
+role = "Master degree Student of the University of Tokyo"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Stanford University", url = "" } ]
+organizations = [ { name = "Cyber Interface Lab", url = "http://www.cyber.t.u-tokyo.ac.jp/ja/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = "My research interests include Human-Computer Interaction and Human-Augumentaion."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
 
 # List (academic) interests or hobbies
 interests = [
-  "Artificial Intelligence",
-  "Computational Linguistics",
-  "Information Retrieval"
+  "Human-Computer Interaction",
+  "Human-Augumentation",
+  "Haptic Device / 触覚デバイス",
+  "VR・AR",
+  "Computational Perception Design / 計算機を用いた人間の知覚モデル設計"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -34,19 +36,15 @@ user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
-
+  course = "2018.04 - 東京大学大学院情報理工学研究科"
+  institution = "廣瀬・谷川・鳴海研究室"
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
+  course = "2018.03 東京大学工学部機械情報工学科 卒業"
+  institution = "廣瀬・谷川・鳴海研究室"
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "2014.04 東京大学教養学部理科一類 入学"
+[[education.courses]]
+  course = "2014.03 茨城県立水戸第一高等学校 卒業"
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -61,17 +59,22 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "twitter"
   icon_pack = "fab"
-  link = "https://twitter.com/GeorgeCushen"
+  link = "https://twitter.com/AceZeami"
 
 [[social]]
   icon = "google-scholar"
   icon_pack = "ai"
-  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+  link = "https://scholar.google.co.jp/citations?user=eGt6btsAAAAJ&hl=ja"
 
 [[social]]
   icon = "github"
   icon_pack = "fab"
-  link = "https://github.com/gcushen"
+  link = "https://github.com/TakeruAce"
+
+[[social]]
+  icon = "facebook"
+  icon_pack = "fab"
+  link = "https://www.facebook.com/profile.php?id=100004577952898"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -82,6 +85,4 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Takeru Hashimoto (橋本 健) is currently a Master’s student in the Cyber Interface Laboratory at The University of Tokyo in Japan. He is studying computer science in the graduate school of The University of Tokyo, after finished Bachelor’s degree in mechano-informatics engineering in The University of Tokyo. His current research area is Human-Augumentation, Human-Computer Interaction.
