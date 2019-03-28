@@ -35,6 +35,9 @@ url_poster = ""
 
 image_preview = "pic.png"
 
+[header]
+image = ""
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
@@ -44,8 +47,10 @@ image_preview = "pic.png"
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
+  preview_only = true
 +++
 
+{{<figure src = "featured.png">}}
 # About
 どこにいても [<font color = "green">LINE</font>] (https://line.me/ja/) から自宅の家電を操作できるシステム
 
