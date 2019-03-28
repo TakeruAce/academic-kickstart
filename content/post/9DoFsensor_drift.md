@@ -112,6 +112,32 @@ void initGyro() {
 ```
 開始後のAVERAGENUM_INIT（今回は1000）フレームの各フレームでジャイロの静止状態時の値を取得し，平均をとっています．これを行うことで静止状態のジャイロセンサの値をブレを抑えて取得することができ，姿勢推定時の姿勢角のドリフトを抑えることができました．
 
+*3/23 追記*
+
+上のinitGyro()ですが，
+
+```
+void setup() {
+   initGyro();
+}
+
+void initGyro() {
+  INITIAL_GYRO_X = 0;
+  INITIAL_GYRO_Y = 0;
+  INITIAL_GYRO_Z = 0;
+  for (int i = 0;i < AVERAGENUM_INIT;i++) {
+    INITIAL_GYRO_X += imu.gx / AVERAGENUM_INIT;
+    INITIAL_GYRO_Y += imu.gy / AVERAGENUM_INIT;
+    INITIAL_GYRO_Z += imu.gz / AVERAGENUM_INIT;
+    delay(5);
+  }
+}
+
+```
+
+とすればsetup()で呼んで良さそうですね．
+こちらのコードだと上のとは違ってinitGyro()を一度呼んだら終わるまで他のコードは全く動かなくなりますが，まあ5秒ぐらいならキャリブレーションに使ってもいいかという気持ちで．
+
 # まとめ
 Madgwickフィルタは優秀なのでジャイロの値を補正してあげるだけでかなりの精度がでます．自分は地磁気を使うのが面倒だったので加速度とジャイロの値のみを使ったのですが，かなり安定していました．
 
