@@ -23,7 +23,7 @@ email = ""
 
 # List (academic) interests or hobbies
 interests = [
-  "Human-Computer Interaction",
+  "Shape-Sensation Hacking",
   "Human-Augumentation",
   "Haptic Device / 触覚デバイス",
   "VR・AR",
@@ -37,7 +37,7 @@ user_groups = ["Researchers", "Visitors"]
 # List qualifications (such as academic degrees)
 [[education.courses]]
   course = "2018.04 - 東京大学大学院情報理工学研究科"
-  institution = "廣瀬・谷川・鳴海研究室"
+  institution = "廣瀬・葛岡・鳴海研究室"
 [[education.courses]]
   course = "2018.03 東京大学工学部機械情報工学科 卒業"
   institution = "廣瀬・谷川・鳴海研究室"

@@ -19,21 +19,30 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "XR engineer intern"
+  title = "Prototype Designer"
+  company = "Mplusplus Co.,Ltd."
+  company_url = "http://www.mplpl.com/"
+  location = "Tokyo"
+  date_start = "2019-03-01"
+  date_end = ""
+  description = "Making prototype for stage performances."
+
+[[experience]]
+  title = "xR Engineer Intern"
   company = "GREE, Inc"
-  company_url = ""
+  company_url = "http://gree.jp/"
   location = "Tokyo"
   date_start = "2018-10-01"
   date_end = "2018-12-21"
-  description = "Developing VR and MR applications with Unity"
+  description = "Developing VR and MR applications with Unity and [zSpace](https://jp.zspace.com/)"
 
 [[experience]]
   title = "Android Engineer"
-  company = "Sony Music Communications"
-  company_url = ""
+  company = "Sony Music Communications Inc."
+  company_url = "http://www.smci.jp/s/smci/?ima=2312"
   location = "Tokyo"
   date_start = "2018-02-01"
   date_end = "2018-10-31"
-  description = """Developing Android version of [**Butaimeguri**](https://www.butaimeguri.com/) with Java"""
+  description = """Developing the Android app of [**Butaimeguri**](https://www.butaimeguri.com/) with Java"""
 
 +++
