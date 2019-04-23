@@ -44,11 +44,5 @@ url_code = ""
 
 ニュースアプリや漫画アプリ等でリストビューの中に広告を入れる手法を最近見ますが，そのような広告の分野での応用や，教科書や参考書の重要な部分を効率よく記憶するといった応用が考えられます．
 
-# Paper
-Takeru Hashimoto, Takuji Narumi, Ryohei Nagao, Tomohiro Tanikawa, Michitaka Hirose . Effect of Pseudo-Haptic Feedback on Touchscreens on Visual Memory During Image Browsing. Eurohaptics, Jun 2018.
-
-橋本 健, 鳴海 拓志, 長尾 涼平, 谷川 智洋, 廣瀬 通孝 . タッチスクリーンでの擬似触力覚提示による注意誘導. 日本バーチャルリアリティ学会論文誌, Sep 2018.
-
-
 詳しくは[こちら](https://www.jstage.jst.go.jp/article/tvrsj/23/3/23_139/_article/-char/ja)
 
