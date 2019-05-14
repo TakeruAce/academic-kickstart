@@ -25,9 +25,9 @@ email = ""
 interests = [
   "Shape-Sensation Hacking",
   "Human-Augumentation",
-  "Haptic Device / 触覚デバイス",
-  "VR・AR",
-  "Computational Perception Design / 計算機を用いた人間の知覚モデル設計"
+  "Haptic Device",
+  "VR / AR of haptics",
+  "Computational Perception Design"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -86,3 +86,4 @@ user_groups = ["Researchers", "Visitors"]
 +++
 
 Takeru Hashimoto (橋本 健) is currently a Master’s student in the Cyber Interface Laboratory at The University of Tokyo in Japan. He is studying computer science in the graduate school of The University of Tokyo, after finished Bachelor’s degree in mechano-informatics engineering in The University of Tokyo. His current research area is Human-Augumentation, Human-Computer Interaction.
+
