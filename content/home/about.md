@@ -25,12 +25,23 @@ author = "admin"
   
   # Background gradient.
   gradient_start = "DarkGreen"
-  gradient_end = "Red"
-  
+  gradient_end = "Black"
+
   # Background image.
   image = "self-500.png"  # Name of image in `static/img/`.
-  image_darken = 0.5  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  image_darken_from = 0.2
+  image_darken_to = 0.5
+
+  # image fixment fixed or scroll
+  attachment = "fixed"
+
+  # image size auto contain cover px %
+  image_size = "cover"
 
   # Text color (true=light or false=dark).
   text_color_light = true
+[advanced]
+  css_class = "background-image-fixed"
+
 +++
