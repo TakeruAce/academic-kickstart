@@ -21,26 +21,21 @@ author = "admin"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  color = "white"
+  color = ""
   
   # Background gradient.
-  gradient_start = "DarkGreen"
-  gradient_end = "Black"
+  gradient_start = ""
+  gradient_end = ""
 
   # Background image.
-  image = "self-500.png"  # Name of image in `static/img/`.
+  #image = "self-500.png"  # Name of image in `static/img/`.
   # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   image_darken_from = 0.2
   image_darken_to = 0.5
 
-  # image fixment fixed or scroll
-  attachment = "fixed"
-
-  # image size auto contain cover px %
-  image_size = "cover"
-
   # Text color (true=light or false=dark).
   text_color_light = true
+  
 [advanced]
   css_class = "background-image-fixed"
 

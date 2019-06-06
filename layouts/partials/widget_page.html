@@ -25,7 +25,7 @@
 
   {{ if and $bg.gradient_start $bg.gradient_end }}
     {{ $style = printf "%sbackground-image: linear-gradient(%s, %s);" $style $bg.gradient_start $bg.gradient_end }}
-  {{ end }}
+  {{ end }} 
 
   {{ if $bg.image }}
     {{ $darken := "" }}
@@ -34,14 +34,6 @@
     {{ end }}
     {{/* See Hugo note on linking assets in styles: https://github.com/gohugoio/hugoThemes#common-permalink-issues */}}
     {{ $style = printf "%sbackground-image: %s url('%s');" $style $darken (printf "img/%s" $bg.image | absURL) }}
-  {{ end }}
-
-  {{ if $bg.attachment }}
-    {{ $style = printf "%sbackground-attachment: %s;" $style $bg.attachment}}
-  {{ end }}
-
-  {{ if $bg.image_size }}
-    {{ $style = printf "%sbackground-size: %s;" $style $bg.image_size}}
   {{ end }}
 
   {{ with $st.Params.design.spacing.padding }}
