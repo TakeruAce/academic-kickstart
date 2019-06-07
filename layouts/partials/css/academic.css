@@ -486,6 +486,12 @@
     animation: intro 0.3s both;
     animation-delay: 0.15s;
   }
+
+  .home-section#footer {
+    background-color: {{ .Get "home_section_odd" }};
+    animation: intro 0.3s both;
+    animation-delay: 0.15s;
+  }
   
   /* Override dark colors that may be inherited from body.dark */
   .home-section.dark,
@@ -2467,4 +2473,18 @@
     height:100vh;
     background:linear-gradient(rgba(20, 10, 0, 0.5),rgba(0,10,20,0.5)), url(/img/self-500.png) center no-repeat;
     background-size:cover;
+    animation-name: background-changer;
+    animation-duration: 3s;
+    animation-iteration-count : 1;
+    animation-direction: reverse
   }
+
+ @keyframes background-changer {
+   from {
+     width:100%;
+   }
+   to {
+     width:0%;
+     opacity: 0.0;
+   }
+ }
