@@ -2474,7 +2474,7 @@
     background:linear-gradient(rgba(20, 10, 0, 0.5),rgba(0,10,20,0.5)), url(/img/self-500.png) center no-repeat;
     background-size:cover;
     animation-name: background-changer;
-    animation-duration: 3s;
+    animation-duration: 1s;
     animation-iteration-count : 1;
     animation-direction: reverse
   }
@@ -2484,7 +2484,7 @@
      width:100%;
    }
    to {
-     width:0%;
+     /* width:0%; */
      opacity: 0.0;
    }
  }

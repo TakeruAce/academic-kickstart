@@ -25,7 +25,7 @@ date_format = "January 2006"
   location = "Tokyo"
   date_start = "2019-03-01"
   date_end = ""
-  description = "Making prototype for stage performances."
+  description = "Prototyping for stage performances"
 
 [[experience]]
   title = "xR Engineer Intern"
