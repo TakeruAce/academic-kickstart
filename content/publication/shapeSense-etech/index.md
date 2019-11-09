@@ -1,10 +1,10 @@
 +++
-title = "Transcalibur: weight moving VR controller for dynamic rendering of 2D shape using haptic shape illusion"
-date = 2018-08-12T16:07:37+09:00
+title = "ShapeSense: a 2D shape rendering VR device with moving surfaces that controls mass properties and air resistance"
+date = 2019-07-28T16:07:37+09:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Jotaro Shigeyama", "**Takeru Hashimoto**", "Shigeo Yoshida", "Taiju Aoki", "Takuji Narumi", "Tomohiro Tanikawa", "Michitaka Hirose"]
+authors = ["Yuhu Liu", "**Takeru Hashimoto**", "Shigeo Yoshida", "Takuji Narumi", "Tomohiro Tanikawa", "Michitaka Hirose"]
 
 # Publication type.
 # Legend:
@@ -18,7 +18,7 @@ authors = ["Jotaro Shigeyama", "**Takeru Hashimoto**", "Shigeo Yoshida", "Taiju 
 publication_types = ["7"]
 
 # Publication name and optional abbreviated version.
-publication = "ACM SIGGRAPH 2018 Emerging Technologies"
+publication = "ACM SIGGRAPH 2019 Emerging Technologies"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -35,7 +35,7 @@ selected = false
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
-projects = ["transcalibur"]
+projects = ["ShapeSense"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -46,7 +46,7 @@ url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
-url_project = "http://www.cyber.t.u-tokyo.ac.jp/~jotaro/transcalibur_web/"
+url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""

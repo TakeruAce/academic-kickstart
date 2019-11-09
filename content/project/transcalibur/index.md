@@ -58,6 +58,3 @@ VR環境において様々な物体を持った感覚をリアルに生起させ
 **Honorable Mention** at CHI2019
 # Media
 [<font color="blue">『ブルーサーマル』的VR超初心者入門漫画 その3＞＞「で、結局のところVRの正体ってなんですか？」</font>](https://cgworld.jp/feature/201810-thermal-03.html) CGWORLD.jp 2018.10
-
-# For more detail
-Please jump to [<font color="blue">here</font>](https://jotaros.github.io/project/transcalibur/) !!
