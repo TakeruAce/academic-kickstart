@@ -15,7 +15,7 @@ authors = ["**橋本 健**", "吉田 成朗", "鳴海 拓志", "廣瀬 通孝"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["7"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "第24回バーチャルリアリティ学会大会 (VRSJ2019)"

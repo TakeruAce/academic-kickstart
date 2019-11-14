@@ -23,6 +23,7 @@ subtitle = ""
 
 [[feature]]
 icon_path = "circuit.png"
+
 name = "Curcuit Design"
 description = """ 
 """
@@ -47,4 +48,10 @@ with Unity
   icon_pack = "fab"
   name = "Android application"
   description = "with Android Java"
+
+[[feature]]
+  icon_path = "sheep-icon.png"
+  icon_width = "80"
+  name = "The Settlers of CATAN"
+  description = "CRAZY about this game"
 +++

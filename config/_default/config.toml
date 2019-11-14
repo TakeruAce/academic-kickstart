@@ -13,7 +13,7 @@ baseurl = "/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = "&copy;Takeru Hashimoto {year}-2018"
+copyright = "&copy;Takeru Hashimoto {year}-2019"
 
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = "UA-124482253-1"

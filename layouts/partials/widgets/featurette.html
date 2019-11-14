@@ -22,8 +22,13 @@
     {{ $pack_prefix = "fa" }}
   {{ end }}
   <div class="col-12 col-sm-4">
-    {{ with .icon }}<div class="featurette-icon"><i class="{{ $pack }} {{ $pack_prefix }}-{{ . }}"></i></div>{{ end }}
-    {{ with .icon_path}}<div class="featurette-icon"><img class="fab" src="/img/{{.}}" width=60px></div>{{ end }}
+    {{ with .icon }}
+      <div class="featurette-icon"><i class="{{ $pack }} {{ $pack_prefix }}-{{ . }}"></i></div>
+    {{ else }}
+      <div class="featurette-icon"><img class="fab" src="/img/{{.icon_path}}" width = "{{with .icon_width}} {{.}} {{ else }} 60 {{end}}"></div>
+    {{end}}
+
+
     <h3>{{ .name | markdownify | emojify }}</h3>
     {{ with .description }}<p>{{ . | markdownify | emojify }}</p>{{ end }}
   </div>
