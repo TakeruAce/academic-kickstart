@@ -30,8 +30,8 @@ author = "admin"
   # Background image.
   #image = "self-500.png"  # Name of image in `static/img/`.
   # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-  image_darken_from = 0.2
-  image_darken_to = 0.5
+  image_darken_from = 0.8
+  image_darken_to = 0.8
 
   # Text color (true=light or false=dark).
   text_color_light = true

@@ -2471,12 +2471,12 @@
     z-index:-1;
     width:100%;
     height:100vh;
-    background:linear-gradient(rgba(20, 10, 0, 0.5),rgba(0,10,20,0.5)), url(/img/self-500.png) center no-repeat;
+    background:linear-gradient(rgba(20, 10, 0, 0.7),rgba(0,10,20,0.7)), url(/img/self-500.png) center no-repeat;
     background-size:cover;
-    animation-name: background-changer;
+    /* animation-name: background-changer;
     animation-duration: 1s;
     animation-iteration-count : 1;
-    animation-direction: reverse
+    animation-direction: reverse */
   }
 
  @keyframes background-changer {
