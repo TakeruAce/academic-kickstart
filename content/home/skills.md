@@ -31,15 +31,15 @@ description = """
 icon_path = "vr-glasses.png"
 name = "VR application"
 description = """
-with Unity 
+with Unity3D
 """
 
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statics, Machine learning"
+  name = "Statics"
   description = """
-  Python, R
+  with Python, R
   """
 
 [[feature]]

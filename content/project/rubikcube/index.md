@@ -1,5 +1,5 @@
 +++
-title = "Rubik Cube Solver"
+title = "Rubik's Cube Solver"
 date = 2016-12-21
 draft = false
 

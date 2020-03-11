@@ -23,11 +23,11 @@ email = ""
 
 # List (academic) interests or hobbies
 interests = [
-  "Hacking Sense of Shape",
+  "Hacking shape perception of wielding object",
   "Haptic Device",
+  "MLE, Bayesian inference",
   "VR / AR of haptics",
   "Human-Augumentation",
-  "Computational Perception Design"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -36,13 +36,14 @@ user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "2018.04 - 東京大学大学院情報理工学研究科"
+  course = "2020.04 - 東京大学大学院情報理工学研究科 博士課程"
+  institution = "葛岡・鳴海研究室"
+[[education.courses]]
+  course = "2020.03 東京大学大学院情報理工学研究科修士課程 修了"
   institution = "廣瀬・葛岡・鳴海研究室"
 [[education.courses]]
   course = "2018.03 東京大学工学部機械情報工学科 卒業"
   institution = "廣瀬・谷川・鳴海研究室"
-[[education.courses]]
-  course = "2014.04 東京大学教養学部理科一類 入学"
 [[education.courses]]
   course = "2014.03 茨城県立水戸第一高等学校 卒業"
 
