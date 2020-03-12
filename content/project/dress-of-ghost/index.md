@@ -8,7 +8,7 @@ draft = false
 tags = ["art"]
 
 # Project summary to display on homepage.
-summary = "無機質な粒子に「生」を感じるか？という問いのもとに作成した，人と戯れる砂"
+summary = "無機質な粒子に「生」を感じるか？という問いのもとに生まれた、人と戯れる砂"
 
 # Optional image to display on homepage.
 image_preview = "featured.jpg"

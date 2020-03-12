@@ -6,7 +6,7 @@ title = "Magic Table"
 date = 2017-12-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "同じテーブルに触れているのに，様々な形に感じる不思議なVRテーブル"
+summary = "同じテーブルに触れているのに、様々な形に感じる不思議なVRテーブル"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

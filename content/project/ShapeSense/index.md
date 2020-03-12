@@ -1,6 +1,6 @@
 +++
 title = "ShapeSense"
-date = 2018-11-22T19:27:17+09:00
+date = 2019-07-30T19:27:17+09:00
 draft = false
 
 # Tags: can be used for filtering projects.

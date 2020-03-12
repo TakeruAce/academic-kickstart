@@ -8,7 +8,7 @@ draft = false
 tags = ["art"]
 
 # Project summary to display on homepage.
-summary = "空中で渦を描くと水中に渦を発生させることができる水槽"
+summary = "空中で渦を描くと水中に渦が生じる水槽"
 
 # Optional image to display on homepage.
 image_preview = "voltex.jpg"
