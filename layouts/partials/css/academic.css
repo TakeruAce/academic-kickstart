@@ -1729,7 +1729,7 @@
   .btn-primary:not(:disabled):not(.disabled).active:focus,
   .btn-primary:not(:disabled):not(.disabled):active:focus,
   .show > .btn-primary.dropdown-toggle:focus {
-    box-shadow: 0 0 0 .2rem {{ .Get "primary_light" }};
+    box-shadow: 0 0 0 .0rem {{ .Get "primary_light" }};
   }
   
   /*************************************************
