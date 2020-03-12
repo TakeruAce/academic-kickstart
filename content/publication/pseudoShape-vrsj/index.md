@@ -4,7 +4,7 @@ date = 2019-09-15T16:07:37+09:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["**橋本 健**", "吉田 成朗", "鳴海 拓志", "廣瀬 通孝"]
+authors = ["*橋本 健*", "吉田 成朗", "鳴海 拓志", "廣瀬 通孝"]
 
 # Publication type.
 # Legend:
@@ -25,6 +25,9 @@ publication_short = ""
 abstract = ""
 abstract_short = ""
 
+# Additional Infomation such as best paper 
+additional_text = "**日本VR学会学術奨励賞**"
+additional_text_color = "#d64d31"
 # Featured image thumbnail (optional)
 image_preview = ""
 

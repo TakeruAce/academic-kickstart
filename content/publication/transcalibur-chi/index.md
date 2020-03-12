@@ -22,8 +22,8 @@ publication = "CHI Conference on Human Factors in Computing Systems Proceedings"
 publication_short = ""
 
 # Additional Infomation such as best paper 
-addtional_text = "<font color='Red'>**Honorable Mention Award**</font> (*The first two authors contributed equally to this work.*)"
-
+additional_text = "**Honorable Mention Award**  (*The first two authors contributed equally to this work.*)"
+additional_text_color = "#d64d31"
 # Abstract and optional shortened version.
 abstract = ""
 abstract_short = ""

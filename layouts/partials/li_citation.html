@@ -29,7 +29,7 @@
   {{- .Params.publication | markdownify -}},
   {{ end }}
   {{- .Date.Format "Jan 2006" -}}.
-  <div>{{- .Params.addtional_text | markdownify -}}</div>
+  <div><font color = "{{.Params.additional_text_color}}"> {{- .Params.additional_text | markdownify -}}</font></div>
   <p>{{ partial "page_links" (dict "content" . "is_list" 1) }}</p>
 
   {{ end }}
