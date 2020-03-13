@@ -1534,20 +1534,21 @@
 
   .card .project-name {
     color: #ddd;
-    font-size: large;
-    position: relative;
+    font-size: 1rem;
+    font-weight: bold;
+    position: absolute;
     width:80%;
-    top: 0%;
-    left:10%;
+    top:20%;
+    left:5%;
   }
 
   .card .project-description {
     color: #ddd;
-    font-size: small;
-    position: relative;
+    position: absolute;
+    font-size : 0.3rem;
     width: 80%;
-    top:0%;
-    left:10%;
+    bottom:1em;
+    left:5%;
   }
   
   .card:hover {
