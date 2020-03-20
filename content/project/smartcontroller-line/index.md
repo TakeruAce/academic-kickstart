@@ -1,5 +1,5 @@
 +++
-title = "Smart Controller with LINE"
+title = "Smart Controller"
 date = 2019-03-28T12:35:52+09:00
 draft = false
 

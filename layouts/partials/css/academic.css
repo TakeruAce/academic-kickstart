@@ -1534,8 +1534,9 @@
 
   .card .project-name {
     color: #ddd;
+    font-family: '{{ .Get "heading_font" }}';
     font-size: 1rem;
-    font-weight: bold;
+    font-weight: 400;
     position: absolute;
     width:80%;
     top:20%;
@@ -1547,7 +1548,7 @@
     position: absolute;
     font-size : 0.3rem;
     width: 80%;
-    bottom:1em;
+    bottom:2em;
     left:5%;
   }
   
