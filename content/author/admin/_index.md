@@ -9,7 +9,7 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Master degree Student of the University of Tokyo"
+role = "Ph.D. Student of the University of Tokyo"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -86,5 +86,4 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Takeru Hashimoto (橋本 健) is currently a Master’s student in the Cyber Interface Laboratory at The University of Tokyo in Japan. He is studying computer science in the graduate school of The University of Tokyo, after finished Bachelor’s degree in mechano-informatics engineering in The University of Tokyo. His current research area is Virtual / Augmented Reality of haptics and Human-Computer Interaction.
-
+Takeru Hashimoto (橋本 健) is currently a Ph.d. student in the Cyber Interface Laboratory at The University of Tokyo in Japan. He is studying computer science in the graduate school of The University of Tokyo, after finished Bachelor’s degree in mechano-informatics engineering in The University of Tokyo. His current research area is Virtual / Augmented Reality of haptics and Human-Computer Interaction.
