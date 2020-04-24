@@ -16,7 +16,7 @@ role = "Ph.D. Student of the University of Tokyo"
 organizations = [ { name = "Cyber Interface Lab", url = "http://www.cyber.t.u-tokyo.ac.jp/ja/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include Human-Computer Interaction and Human-Augumentaion."
+bio = "My research interests include Human-Computer Interaction and virtual reality."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
@@ -36,10 +36,10 @@ user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "2020.04 - 東京大学大学院情報理工学研究科 博士課程"
+  course = "2020.04 - 東京大学大学院情報理工学系研究科 博士課程 在籍中"
   institution = "葛岡・鳴海研究室"
 [[education.courses]]
-  course = "2020.03 東京大学大学院情報理工学研究科修士課程 修了"
+  course = "2020.03 東京大学大学院情報理工学系研究科修士課程 修了"
   institution = "廣瀬・葛岡・鳴海研究室"
 [[education.courses]]
   course = "2018.03 東京大学工学部機械情報工学科 卒業"
@@ -86,4 +86,6 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Takeru Hashimoto (橋本 健) is currently a Ph.d. student in the Cyber Interface Laboratory at The University of Tokyo in Japan. He is studying computer science in the graduate school of The University of Tokyo, after finished Bachelor’s degree in mechano-informatics engineering in The University of Tokyo. His current research area is Virtual / Augmented Reality of haptics and Human-Computer Interaction.
+Takeru HASHIMOTO （橋本 健） is currently a Ph.D. student in the Cyber Interface Laboratory at The University of Tokyo in Japan. He is studying computer science and human computer interaction in the graduate school of The University of Tokyo. He received his master's degree in information science and technology and bachelor's degree in mechano-informatics engineering from The University of Tokyo in 2020 and 2018 respectively. 
+His awards include the Young Researcher's Award from the virtual reality society of Japan and the Honorable Mention Award in CHI2019.
+His current research area is Virtual / Augmented Reality of haptics and Human-Computer Interaction.
