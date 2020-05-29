@@ -23,13 +23,14 @@ subtitle = ""
 
 [[feature]]
 icon_path = "circuit.png"
-name = "Circuit Design"
+name = "PCB Design"
 description = """ 
+with Autodesk Eagle
 """
 
 [[feature]]
 icon_path = "vr-glasses.png"
-name = "VR application"
+name = "VR applications"
 description = """
 with Unity3D
 """
@@ -37,7 +38,7 @@ with Unity3D
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statics"
+  name = "Statistics"
   description = """
   with Python, R
   """
@@ -45,7 +46,7 @@ with Unity3D
 [[feature]]
   icon = "android"
   icon_pack = "fab"
-  name = "Android application"
+  name = "Android applications"
   description = "with Android Java"
 
 [[feature]]

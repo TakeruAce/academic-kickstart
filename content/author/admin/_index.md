@@ -26,9 +26,8 @@ interests = [
   "Hacking shape perception of wielding object",
   "Haptic Device",
   "MLE, Bayesian inference",
-  "VR / AR of haptics",
-  "Human-Augumentation",
-]
+  "VR / AR of haptics"
+  ]
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.

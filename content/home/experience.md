@@ -25,7 +25,7 @@ date_format = "January 2006"
   location = "Tokyo"
   date_start = "2019-03-01"
   date_end = ""
-  description = "Prototyping for stage performances"
+  description = "Prototyping of glowing props for live performance"
 
 [[experience]]
   title = "xR Engineer Intern"
@@ -34,7 +34,7 @@ date_format = "January 2006"
   location = "Tokyo"
   date_start = "2018-10-01"
   date_end = "2018-12-21"
-  description = "Developing VR and MR applications with Unity and [zSpace](https://jp.zspace.com/)"
+  description = "Developing the VR app that lets you experience moon skiing and the AR app to learn how to check server with [zSpace](https://jp.zspace.com/)"
 
 [[experience]]
   title = "Android Engineer"
@@ -43,6 +43,6 @@ date_format = "January 2006"
   location = "Tokyo"
   date_start = "2018-02-01"
   date_end = "2018-10-31"
-  description = """Developing the Android app of [**Butaimeguri**](https://www.butaimeguri.com/) with Java"""
+  description = """Developing [**Butaimeguri**](https://www.butaimeguri.com/), the AR app that enables you to take photos with anime characters where they have been set"""
 
 +++
