@@ -78,13 +78,13 @@ user_groups = ["Researchers", "Visitors"]
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[social]]
-#   icon = "cv"
-#   icon_pack = "ai"
-#   link = "files/cv.pdf"
+[[social]]
+  icon = "cv"
+  icon_pack = "ai"
+  link = "files/CV_Takeru_HASHIMOTO.pdf"
 
 +++
 
-Takeru HASHIMOTO （橋本 健） is currently a Ph.D. student in the Cyber Interface Laboratory at The University of Tokyo in Japan. He is studying computer science and human computer interaction in the graduate school of The University of Tokyo. He received his master's degree in information science and technology and bachelor's degree in mechano-informatics engineering from The University of Tokyo in 2020 and 2018 respectively. 
+Takeru HASHIMOTO （橋本 健） is currently a PhD student at the Cyber Interface Laboratory in The University of Tokyo in Japan. He is studying computer science and human computer interaction in the graduate school of The University of Tokyo. He received his master's degree in information science and technology and bachelor's degree in mechano-informatics engineering from The University of Tokyo in 2020 and 2018 respectively. 
 His awards include the Young Researcher's Award from the virtual reality society of Japan and the Honorable Mention Award in CHI2019.
 His current research area is Virtual / Augmented Reality of haptics and Human-Computer Interaction.
