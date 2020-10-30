@@ -1,7 +1,7 @@
 +++
 title = "Phantom Shape"
 date = 2019-09-22T19:27:17+09:00
-draft = false
+draft = true
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
